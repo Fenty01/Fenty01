@@ -43,7 +43,7 @@ A containerized multi-service application using Docker Compose — my hands-on p
 
 -----
 
-## 🎓 Learning Goals for 2025
+## 🎓 Learning Goals for 2026
 
 - [ ] Pass AWS Solutions Architect Associate exam
 - [ ] Build and deploy projects on AWS
