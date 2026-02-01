@@ -2,7 +2,7 @@
 
 **Aspiring Cloud & DevOps Engineer**
 
-I’m on a journey to become an AWS Solutions Architect and DevOps professional. Currently training with **CoderTech Africa** and building hands-on projects to strengthen my cloud and automation skills.
+I’m on a journey to become an AWS Solutions Architect and DevOps professional. Currently training with **CodarTech Africa** and building hands-on projects to strengthen my cloud and automation skills.
 
 -----
 
@@ -55,7 +55,7 @@ A containerized multi-service application using Docker Compose — my hands-on p
 
 ## 📚 Currently Training
 
-🎓 **CoderTech Africa** — AWS Solutions Architect & DevOps Program
+🎓 **CodarTech Africa** — AWS Solutions Architect & DevOps Program
 
 -----
 
